@@ -119,10 +119,10 @@ body {
   transition: all .2s; }
   @media (max-width: 56.25em) {
     .heading-secondary {
-      letter-spacing: 3rem; } }
+      letter-spacing: .3rem; } }
   @media (max-width: 37.5em) {
     .heading-secondary {
-      letter-spacing: 2.5rem; } }
+      letter-spacing: .25rem; } }
 
 .heading-tertiary {
   font-size: 1.6rem;
